@@ -9,15 +9,23 @@
     display: flex;
     /* flex-direction: row-reverse; */
     /* flex-direction: column-reverse; */
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
     /* flex-flow: row wrap; */
     /* justify-content: flex-end; */
     /* justify-content: center; */
     /* justify-content: flex-start; */
     /* justify-content:space-around; */
     /* justify-content:space-between; */
-    justify-content:space-evenly;
-    height: 70vh; 
+    /* justify-content:space-evenly; */
+    /* align-items: flex-end; */
+    /* align-items: center; */
+    /* align-items: baseline; */
+    /* row-gap: 20px;
+    column-gap: 50px; */
+    /* gap:50px; */
+    /* gap:50px 100px; */
+    /* align-content: space-between; */
+    height: 100vh; 
     border: 3px solid red;
   }
   
